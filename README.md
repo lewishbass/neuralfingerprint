@@ -9,6 +9,7 @@ A fork of the implemtation in this paper
 
 ## How to install
 conda environment setup: conda create -c conda-forge -n finger rdkit autograd scipy pygame python=2.7
+
 run in base directory: python setup.py install
 
 ## Examples
